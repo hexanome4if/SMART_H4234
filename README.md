@@ -1,14 +1,14 @@
 # SMART_H4234
 
-### Vidéo
+## Vidéo
 
 Lien YouTube de la vidéo : https://youtu.be/3ODELXwhNeM
 
-### Installation 
+## Installation 
 
 Se référer au README du BACK dans un premier temps, puis à celui du FRONT. 
 
-### Comptes de test 
+## Comptes de test 
 
 Les identifiants et mots de passe de trois comptes pour utiliser l'application :
 
