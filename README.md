@@ -12,12 +12,9 @@ Se référer au README du BACK dans un premier temps, puis à celui du FRONT.
 
 Les identifiants et mots de passe de trois comptes pour utiliser l'application :
 
-username : polo504
-password : pwd1
+- username : polo504 ; password : pwd1
 
-username : saEsme
-password : pwd2
+- username : saEsme ; password : pwd2
 
-username : scutu01
-password : pwd3
+- username : scutu01 ; password : pwd3
 
