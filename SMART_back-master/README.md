@@ -5,8 +5,8 @@
 
 - Serveur MariaDB ( Tutorial d'installation : https://www.youtube.com/watch?v=lH_2taJUOj4 )
   * Il est important de garder "root" comme nom d'utilisateur ET comme mot de passe
-  
-- IntelliJ IDEA ( https://www.jetbrains.com/idea/download/ ) 
+ 
+- IntelliJ IDEA ( https://www.jetbrains.com/idea/download/ )
 - ngrok ( https://ngrok.com/download )
 
 
@@ -20,7 +20,7 @@
 
   -> Une base de données "orientation" est créée avec ses tables
   * Pour insérer des données de tests dans la base, lancer la commande : 
-     "source <chemin vers le dossier/SMART_back/scripts_sql/insertions.sql>" ce sript supprime par défauts toute donnée déjà présente dans la base
+     "source <chemin vers le dossier/SMART_back/scripts_sql/insertions.sql>" ce script supprime par défaut toute donnée déjà présente dans la base
 
 
   ## (Option 2) Depuis HeidiSQL
@@ -39,9 +39,8 @@
 
   -> Une base de données "orientaion" est créée avec ses tables
     * Pour insérer des données de tests dans la base, exécuter le fichier SMART_back/scripts_sql/insertions.sql
-    ce sript supprime par défauts toute donnée déjà présente dans la base
-    
-    
+    ce script supprime par défaut toute donnée déjà présente dans la base
+       
   
 # Pour lancer le Serveur Back-end
 
@@ -63,11 +62,3 @@
 -> Le tunnel est lancé
 * Récupérer alors l'adresse "Forwarding" sécurisée semblable à celle ci :  https://15f6767a12f1.ngrok.io
   permettant la connexion avec le front
-
-
-
-
-
-   
-   
-  
